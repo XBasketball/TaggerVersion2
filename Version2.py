@@ -1,4 +1,3 @@
-st.set_page_config(page_title="StFx Mens Basketball Tagger", layout="wide")
 
 # ---------------------------
 # Roster (EDIT THIS LIST)
