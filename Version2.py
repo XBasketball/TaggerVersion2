@@ -188,4 +188,4 @@ if not ROSTER:
     st.error("No roster defined. Please edit the ROSTER list in the code.")
 else:
     cols_per_row = 6
-    rows = (len(ROSTER)
+    rows = (len(ROSTER))
